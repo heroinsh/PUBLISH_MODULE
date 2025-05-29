@@ -3,7 +3,7 @@
 ![PyPI](https://img.shields.io/pypi/v/h0lwin?style=flat-square)
 ![Python Version](https://img.shields.io/pypi/pyversions/h0lwin?style=flat-square)
 ![License](https://img.shields.io/github/license/heroinsh/h0lwin?style=flat-square)
-[![Fa](https://img.shields.io/github/license/heroinsh/h0lwin?style=flat-square)](https://github.com/heroinsh/h0lwin/blob/main/LICENSE)
+
 
 
 ---
